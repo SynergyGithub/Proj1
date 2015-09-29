@@ -1,0 +1,1 @@
+%windir%Microsoft.NETFrameworkv4.0.30319aspnet_regiis.exe -ir
